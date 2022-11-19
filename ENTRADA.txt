@@ -1,0 +1,16 @@
+456
+-56
++7
+DFSDFSD
+963SDFDS
+cARLOS
+Carlos
+Variable123
+if
+ADADSADASS
+asdsadsadas
+repetir
+Variable1:=Variable2
+while(Variable1:=Variable2){}
+for
+unsigned short
