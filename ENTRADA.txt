@@ -3,8 +3,13 @@ int Variable1:=Variable2;
 int Variable1:=+2;
 while(Variable1==Variable2){int Var1:=Var0;}
 char Variable1:=Variable2;
->
 5  +  9;
-if(I>variable2){int Var1:=Var0;}
-
+if(I>variable2){int Var1:=+1;}
 if(I>variable2){int Var1:=Var0;}else{int Var1:=Var0;}
+char Var1:='a';
+double Var1:=+8.4;
+-4.5
+
+int A;
+char B;
+double C;
