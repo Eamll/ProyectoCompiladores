@@ -1,5 +1,8 @@
 repetir
 int Variable1:=Variable2;
+int Variable1:=+2;
 while(Variable1==Variable2){int Var1:=Var0;}
 char Variable1:=Variable2;
 >
+5  +  9;
+if(I>variable2){int Var1:=Var0;}
