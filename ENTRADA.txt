@@ -6,3 +6,5 @@ char Variable1:=Variable2;
 >
 5  +  9;
 if(I>variable2){int Var1:=Var0;}
+
+if(I>variable2){int Var1:=Var0;}else{int Var1:=Var0;}
