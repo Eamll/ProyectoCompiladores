@@ -790,7 +790,7 @@ char *yytext;
 #line 2 ".\\Proyecto.l"
 #include <stdio.h>
 #include <stdlib.h>
-/*** Puesto a ser probado
+/*** Puesto a ser probado TODO
 
 CONDICIONAL_FOR {PAR_AB}{ASIGNAR}*{SIGNO_PTOCOMA}{CONDICIONAL}{INSTRUCCION}{PAR_CE}
 ***/
@@ -1108,7 +1108,7 @@ YY_RULE_SETUP
 case 16:
 YY_RULE_SETUP
 #line 92 ".\\Proyecto.l"
-{printf ("Esto es una operacion entre VARIABLES- ");}
+{printf ("Esto es una operacion de VARIABLES- ");}
 	YY_BREAK
 case 17:
 YY_RULE_SETUP
